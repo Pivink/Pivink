@@ -1,6 +1,4 @@
-<img width="100%" src="https://github.com/Pivink/Pivink/assets/Header.jng" alt="Pivink Banner"/>
-
-
+<img width="100%" src="https://github.com/Pivink/Pivink/assets/Header.jpg" alt="Pivink Banner"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Pivink+SOE;FRONTEND+DEVELOPER;DATA+VISUALIZER" alt="Header Typing SVG" />
@@ -8,18 +6,15 @@
 
 <img align="right" height="200" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" />
 
-###
-
 🎨 **Creative Technologist** specializing in:
+
 - Frontend Architecture
 - Data Visualization
 - Responsive UI Design
 - Full Stack Solutions
 
-🚀 Building impactful projects at [My Portfolio](https://portfolio-seven-iota-51.vercel.app/)  
+🚀 Building impactful projects at [My Portfolio](https://portfolio-seven-iota-51.vercel.app/)
 💡 Passionate about transforming data into beautiful insights
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Pivink/count.svg?" />
@@ -28,6 +23,7 @@
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- Stats Section -->
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pivink&theme=nightowl&hide_border=true&background=0D1117" width="60%" />
   <br><br>
@@ -40,6 +36,7 @@
 ## 🛠️ Tech Stack & Expertise
 
 ### 🎨 **Frontend Development**
+
 ![HTML](https://img.shields.io/badge/HTML5-Basic-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-Advanced-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black)
@@ -48,6 +45,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-181717?logo=github&logoColor=white)
 
 ### ⚙️ **Backend Development**
+
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white)
@@ -56,6 +54,7 @@
 ![Microservices](https://img.shields.io/badge/Microservices-Basic-2496ED?logo=docker)
 
 ### 📊 **Data Analysis**
+
 ![Pandas](https://img.shields.io/badge/Pandas-Intermediate-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Intermediate-013243?logo=numpy&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-Intermediate-F2C811?logo=powerbi)
@@ -63,6 +62,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Basic-F37626?logo=jupyter)
 
 ### 💼 **Services**
+
 <div align="center">
   <img src="https://img.shields.io/badge/Product_Designer-FF6D00?style=flat&logo=adobecreativecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Web_Designer-4285F4?style=flat&logo=googlechrome&logoColor=white" />
@@ -73,11 +73,11 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **DataDash** | Real-time analytics dashboard | React, Power BI, Python |
-| **API Nexus** | Microservices gateway | Node.js, MongoDB, REST |
-| **VisualVault** | Data visualization library | D3.js, Pandas, JavaScript |
+| Project               | Description                   | Technologies              |
+| --------------------- | ----------------------------- | ------------------------- |
+| **DataDash**    | Real-time analytics dashboard | React, Power BI, Python   |
+| **API Nexus**   | Microservices gateway         | Node.js, MongoDB, REST    |
+| **VisualVault** | Data visualization library    | D3.js, Pandas, JavaScript |
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -102,9 +102,9 @@
 </div>
 
 <!-- Pacman Contribution Graph -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pivink/Pivink/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pivink/Pivink/output/pacman-contribution-graph.svg">
-   
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00d9ff&section=footer&animation=fadeIn&fontAlignY=80"/>
