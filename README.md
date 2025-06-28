@@ -1,7 +1,7 @@
-<img width="100%" src="https://github.com/Pivink/Pivink/assets/Header.jpg" alt="Pivink Banner"/>
+<img src="https://raw.githubusercontent.com/Pivink/Pivink/main/assets/Header.jpg" alt="Pivink Banner" width="100%" height="300px" style="object-fit: cover;" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Pivink+SOE;FRONTEND+DEVELOPER;DATA+VISUALIZER" alt="Header Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=SOFTWARE+DEVELOPER+ENGINEER;FULLSTACK+DEVELOPER;DATA+VISUALIZER" alt="Header Typing SVG" />
 </div>
 
 <img align="right" height="200" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" />
@@ -82,18 +82,21 @@
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🌐 Connect With Me
-
 <div align="center">
   <a href="mailto:pivink@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/pivink/">
+  <a href="https://www.linkedin.com/in/pivink-kumar-a791b32b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="https://portfolio-seven-iota-51.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/>
   </a>
+  <a href="https://www.instagram.com/pivink_01/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+  </a>
 </div>
+
 
 <br>
 
@@ -102,9 +105,10 @@
 </div>
 
 <!-- Pacman Contribution Graph -->
+ 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pivink/Pivink/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pivink/Pivink/output/pacman-contribution-graph.svg">
+<!-- 🟩 Move capsule-render footer OUTSIDE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00bfff&section=footer&animation=fadeIn&fontAlignY=80"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00d9ff&section=footer&animation=fadeIn&fontAlignY=80"/>
+
+ 
