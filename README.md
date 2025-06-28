@@ -8,10 +8,11 @@
 
 🎨 **Creative Technologist** specializing in:
 
-- Frontend Architecture
+- Backend Architecture
 - Data Visualization
 - Responsive UI Design
 - Full Stack Solutions
+- AI/ML solutions
 
 🚀 Building impactful projects at [My Portfolio](https://portfolio-seven-iota-51.vercel.app/)
 💡 Passionate about transforming data into beautiful insights
